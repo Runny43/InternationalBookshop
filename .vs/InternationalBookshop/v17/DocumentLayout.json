@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|c:\\users\\roney\\documents\\github\\programaci\u00F3n cuarto cuatrimestre\\proyect1\\internationalbookshop\\internationalbookshop\\view\\mybooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\mybooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\model\\booked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\model\\booked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\mybooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\mybooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\main.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\main.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\bill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\bill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\model\\firebaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\model\\firebaseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\bookdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\bookdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\bill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\bill.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\bill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\bill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\view\\bookdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\view\\bookdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\databasehelper\\storedprocedure\\spgetbook.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\databasehelper\\storedprocedure\\spgetbook.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\controller\\bookedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\controller\\bookedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\databasehelper\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\databasehelper\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\controller\\trolleycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\controller\\trolleycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\databasehelper\\storedprocedure\\spgetbooked.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\databasehelper\\storedprocedure\\spgetbooked.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\controller\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\databasehelper\\storedprocedure\\spsavebooked.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\databasehelper\\storedprocedure\\spsavebooked.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\databasehelper\\storedprocedure\\spsearchbook.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\databasehelper\\storedprocedure\\spsearchbook.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\databasehelper\\storedprocedure\\spsavetrolley.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\databasehelper\\storedprocedure\\spsavetrolley.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\databasehelper\\storedprocedure\\spgettrolley.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\databasehelper\\storedprocedure\\spgettrolley.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\model\\trolley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\model\\trolley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\internationalbookshop\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F50D8F-8FF8-4646-9544-C77714DB710C}|InternationalBookshop\\InternationalBookshop.csproj|solutionrelative:internationalbookshop\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bill.aspx",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\Bill.aspx",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\Bill.aspx",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\Bill.aspx",
+              "RelativeToolTip": "InternationalBookshop\\View\\Bill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-17T14:18:30.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBooks.aspx",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\MyBooks.aspx",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\MyBooks.aspx",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\MyBooks.aspx",
+              "RelativeToolTip": "InternationalBookshop\\View\\MyBooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-11T05:15:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyBooks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\MyBooks.aspx.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\MyBooks.aspx.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\MyBooks.aspx.cs",
+              "RelativeToolTip": "InternationalBookshop\\View\\MyBooks.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAtwEcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:01:57.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bookDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\bookDetails.aspx.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\bookDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\bookDetails.aspx.cs",
+              "RelativeToolTip": "InternationalBookshop\\View\\bookDetails.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:38:24.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booked.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\Booked.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Model\\Booked.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\Booked.cs",
+              "RelativeToolTip": "InternationalBookshop\\Model\\Booked.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:43:55.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FirebaseUser.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\FirebaseUser.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Model\\FirebaseUser.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\FirebaseUser.cs",
+              "RelativeToolTip": "InternationalBookshop\\Model\\FirebaseUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:40:49.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\main.aspx.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\main.aspx.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\main.aspx.cs",
+              "RelativeToolTip": "InternationalBookshop\\View\\main.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAawBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:35:12.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\Bill.aspx.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\Bill.aspx.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\Bill.aspx.cs",
+              "RelativeToolTip": "InternationalBookshop\\View\\Bill.aspx.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:22:13.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.aspx",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\main.aspx",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\main.aspx",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\main.aspx",
+              "RelativeToolTip": "InternationalBookshop\\View\\main.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-10T20:11:17.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bill.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\Bill.aspx.designer.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\Bill.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\Bill.aspx.designer.cs",
+              "RelativeToolTip": "InternationalBookshop\\View\\Bill.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:52:45.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bookDetails.aspx",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\bookDetails.aspx",
+              "RelativeDocumentMoniker": "InternationalBookshop\\View\\bookDetails.aspx",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\View\\bookDetails.aspx",
+              "RelativeToolTip": "InternationalBookshop\\View\\bookDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T16:15:55.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "spGetBook.sql ",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBook.sql",
+              "RelativeDocumentMoniker": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBook.sql",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBook.sql",
+              "RelativeToolTip": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBook.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-10T20:10:35.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookedController.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\BookedController.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Controller\\BookedController.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\BookedController.cs",
+              "RelativeToolTip": "InternationalBookshop\\Controller\\BookedController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:48:30.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\Database.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\DatabaseHelper\\Database.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\Database.cs",
+              "RelativeToolTip": "InternationalBookshop\\DatabaseHelper\\Database.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwC0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T15:54:26.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TrolleyController.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\TrolleyController.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Controller\\TrolleyController.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\TrolleyController.cs",
+              "RelativeToolTip": "InternationalBookshop\\Controller\\TrolleyController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:06:37.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "spGetBooked.sql ",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBooked.sql",
+              "RelativeDocumentMoniker": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBooked.sql",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBooked.sql",
+              "RelativeToolTip": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetBooked.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T15:50:18.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\BookController.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Controller\\BookController.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\BookController.cs",
+              "RelativeToolTip": "InternationalBookshop\\Controller\\BookController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:15:27.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "spSaveBooked.sql ",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveBooked.sql",
+              "RelativeDocumentMoniker": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveBooked.sql",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveBooked.sql",
+              "RelativeToolTip": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveBooked.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T15:06:46.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\LoginController.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Controller\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Controller\\LoginController.cs",
+              "RelativeToolTip": "InternationalBookshop\\Controller\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAtwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:39:49.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "spSearchBook.sql ",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSearchBook.sql",
+              "RelativeDocumentMoniker": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSearchBook.sql",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSearchBook.sql",
+              "RelativeToolTip": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSearchBook.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-17T14:14:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "spSaveTrolley.sql ",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveTrolley.sql",
+              "RelativeDocumentMoniker": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveTrolley.sql",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveTrolley.sql",
+              "RelativeToolTip": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spSaveTrolley.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-16T04:24:19.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "spGetTrolley.sql ",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetTrolley.sql",
+              "RelativeDocumentMoniker": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetTrolley.sql",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetTrolley.sql",
+              "RelativeToolTip": "InternationalBookshop\\DatabaseHelper\\StoredProcedure\\spGetTrolley.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-16T21:09:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trolley.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\Trolley.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Model\\Trolley.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\Trolley.cs",
+              "RelativeToolTip": "InternationalBookshop\\Model\\Trolley.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:26:12.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "InternationalBookshop\\Model\\Book.cs",
+              "ToolTip": "C:\\Users\\Roney\\Documents\\GitHub\\Programaci\u00F3n Cuarto cuatrimestre\\Proyect1\\InternationalBookshop\\InternationalBookshop\\Model\\Book.cs",
+              "RelativeToolTip": "InternationalBookshop\\Model\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:19:21.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
